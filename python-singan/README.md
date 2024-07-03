@@ -1,0 +1,2 @@
+# SinGAN
+This is a simple implementation of the paper [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164). It is not finished as a lot of optimization is needed to improve the quality of generated images.
